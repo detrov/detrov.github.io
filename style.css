@@ -4,4 +4,4 @@ h1 { text-align: center; color: white }
 h5 { text-align: center; color: white; margin: 2px }
 p { color: white }
 ul { color: white }
-img { max-width: 300px; height: auto }
+img { max-height: 400px; min-height: 400px; width: auto }
